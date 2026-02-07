@@ -1,0 +1,152 @@
+[
+  {
+    "model": "bookings.bus",
+    "pk": 1,
+    "fields": {
+      "bus_name": "Koyambedu Express",
+      "number": "TN01-A1001",
+      "origin": "Chennai - Koyambedu",
+      "destination": "Coimbatore",
+      "features": "AC, WiFi, Charging Point",
+      "start_time": "06:00:00",
+      "reach_time": "14:00:00",
+      "no_of_seats": 40,
+      "price": "850.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 2,
+    "fields": {
+      "bus_name": "Tambaram Superfast",
+      "number": "TN01-B2002",
+      "origin": "Chennai - Tambaram",
+      "destination": "Madurai",
+      "features": "Sleeper, AC",
+      "start_time": "05:30:00",
+      "reach_time": "15:00:00",
+      "no_of_seats": 36,
+      "price": "1200.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 3,
+    "fields": {
+      "bus_name": "CMBT Night Rider",
+      "number": "TN01-C3003",
+      "origin": "Chennai - CMBT",
+      "destination": "Trichy",
+      "features": "Sleeper, Blanket",
+      "start_time": "21:00:00",
+      "reach_time": "05:00:00",
+      "no_of_seats": 30,
+      "price": "999.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 4,
+    "fields": {
+      "bus_name": "Velachery Deluxe",
+      "number": "TN01-D4004",
+      "origin": "Chennai - Velachery",
+      "destination": "Salem",
+      "features": "AC, Recliner",
+      "start_time": "07:00:00",
+      "reach_time": "13:30:00",
+      "no_of_seats": 45,
+      "price": "750.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 5,
+    "fields": {
+      "bus_name": "Egmore Intercity",
+      "number": "TN01-E5005",
+      "origin": "Chennai - Egmore",
+      "destination": "Vellore",
+      "features": "Non-AC",
+      "start_time": "09:00:00",
+      "reach_time": "12:00:00",
+      "no_of_seats": 50,
+      "price": "350.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 6,
+    "fields": {
+      "bus_name": "OMR Tech Ride",
+      "number": "TN01-F6006",
+      "origin": "Chennai - OMR",
+      "destination": "Pondicherry",
+      "features": "AC, Music",
+      "start_time": "10:00:00",
+      "reach_time": "14:00:00",
+      "no_of_seats": 42,
+      "price": "600.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 7,
+    "fields": {
+      "bus_name": "T Nagar City Liner",
+      "number": "TN01-G7007",
+      "origin": "Chennai - T Nagar",
+      "destination": "Bangalore",
+      "features": "AC, WiFi",
+      "start_time": "06:30:00",
+      "reach_time": "15:30:00",
+      "no_of_seats": 38,
+      "price": "1100.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 8,
+    "fields": {
+      "bus_name": "Perambur Local",
+      "number": "TN01-H8008",
+      "origin": "Chennai - Perambur",
+      "destination": "Chengalpattu",
+      "features": "Non-AC",
+      "start_time": "08:00:00",
+      "reach_time": "10:30:00",
+      "no_of_seats": 48,
+      "price": "250.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 9,
+    "fields": {
+      "bus_name": "Anna Nagar Executive",
+      "number": "TN01-I9009",
+      "origin": "Chennai - Anna Nagar",
+      "destination": "Erode",
+      "features": "AC, Sleeper",
+      "start_time": "19:00:00",
+      "reach_time": "05:30:00",
+      "no_of_seats": 34,
+      "price": "1050.00"
+    }
+  },
+  {
+    "model": "bookings.bus",
+    "pk": 10,
+    "fields": {
+      "bus_name": "Guindy Fast Track",
+      "number": "TN01-J1010",
+      "origin": "Chennai - Guindy",
+      "destination": "Tiruvannamalai",
+      "features": "AC",
+      "start_time": "11:00:00",
+      "reach_time": "16:00:00",
+      "no_of_seats": 40,
+      "price": "700.00"
+    }
+  }
+]
